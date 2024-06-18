@@ -1,0 +1,51 @@
+.testmonial_container {
+  width: 750px;
+}
+.testmonial_card {
+  background-color: var(--container-color);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 1.5rem 2rem;
+  border-radius: 1.5rem;
+  margin-bottom: var(--mb-3);
+}
+.testmonial_img {
+  width: 60px;
+  border-radius: 4rem;
+  margin-bottom: var(--mb-1);
+}
+.testmonial_name {
+  font-size: var(--normal-font-size);
+  font-weight: var(--font-medium);
+  margin-bottom: var(--mb-0-25);
+}
+.testmonial_description {
+  font-size: var(--small-font-size);
+}
+.swiper-pagination-bullet {
+  background-color: var(--text-color) !important;
+}
+.swiper-pagination-bullet-active {
+  background-color: var(--title-color) !important;
+}
+
+/*=============== BREAKPOINTS ===============*/
+/* For large devices */
+@media screen and (max-width: 992px) {
+  .testmonial_container {
+    width: initial;
+  }
+  .testmonial_card {
+    padding: 1.35rem 1.5rem;
+  }
+}
+
+/* For medium devices */
+@media screen and (max-width: 768px) {
+}
+
+@media screen and (max-width: 576px) {
+}
+
+/* For small devices */
+@media screen and (max-width: 350px) {
+}
