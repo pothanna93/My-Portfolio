@@ -104,7 +104,7 @@
     display: block;
   } 
   .logo-pothanna{
-    width: 80px; 
+    width: 50px; 
     height: 30px;
   }
 }
@@ -122,14 +122,14 @@
   .nav_list {
     column-gap: 0;
   } 
+  
+}
+  
+
+@media screen and (min-width:769px){
   .logo-pothanna{
-    width: 80px; 
-    height: 30px;
+    width: 120px; 
+    height: 50px;
   }
 }
- 
 
-.logo-pothanna{
-  width: 120px; 
-  height: 50px;
-}

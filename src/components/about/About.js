@@ -1,8 +1,8 @@
 import React from "react";
 import "./about.css";
 import Info from "./Info";
-import AboutImg from "../../assets/pothann_img.jpg";
-import CV from "../../assets/pothanna_resume.pdf";
+import AboutImg from "../../assets/pothanna_img1.jpg";
+import CV from "../../assets/my_resume.pdf";
 const About = () => {
   return (
     <section className="about section" id="about">

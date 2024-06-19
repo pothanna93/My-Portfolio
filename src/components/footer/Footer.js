@@ -26,11 +26,11 @@ const Footer = () => {
              Qualifications & Experince
             </a>
           </li>
-          <li>
+          {/* <li>
             <a href="#testmonial" className="footer_link">
               Testmonials
             </a>
-          </li>
+          </li> */}
         </ul>
         <div className="footer_social">
           <a
