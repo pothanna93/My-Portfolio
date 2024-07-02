@@ -126,7 +126,7 @@ const Qulifications = () => {
                 Irax Tech Private Limited-Hyderbad
                 </span>
                 <div className="qualification_calender">
-                  <i className="uil uil-calendar-alt calender-icon"></i>2023-present
+                  <i className="uil uil-calendar-alt calender-icon"></i>2023(June)-2024(June)
                 </div>
               </div>
               <div>
@@ -146,7 +146,7 @@ const Qulifications = () => {
                 NxtWave-CCBP 4.0 Certification Programs
                 </span>
                 <div className="qualification_calender">
-                  <i className="uil uil-calendar-alt calender-icon"></i>2021(Nov)-2022(Dec)
+                  <i className="uil uil-calendar-alt calender-icon"></i>2021(November)-2023(May)
                 </div>
               </div>
             </div>
@@ -155,7 +155,7 @@ const Qulifications = () => {
                 <h3 className="qualification_title">Assistant professor</h3>
                 <span className="qualification_subtitle">Annamacharya Institute Of Technology And Sciences-Hyderabad</span>
                 <div className="qualification_calender">
-                  <i className="uil uil-calendar-alt calender-icon"></i>2016-2021
+                  <i className="uil uil-calendar-alt calender-icon"></i>2016(June)-2021(June)
                 </div>
               </div>
               <div>

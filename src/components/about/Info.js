@@ -6,7 +6,7 @@ const Info = () => {
       <div className="about_box">
         <i className="uil uil-award-alt about_icon"></i>
         <h3 className="about_title">Experiance</h3>
-        <span className="about_subtitle">1.5 Years Working</span>
+        <span className="about_subtitle">1 + Years Working</span>
       </div>
       <div className="about_box">
         <i className="uil uil-briefcase-alt about_icon"></i>
