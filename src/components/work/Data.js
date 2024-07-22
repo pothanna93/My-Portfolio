@@ -3,7 +3,9 @@ import color_picker from "../../assets/color_picker.PNG";
 import foodmunch from "../../assets/foodmunch.PNG"; 
 import wiki_search from "../../assets/wiki_search.PNG";
 import todoapp from "../../assets/todoapp.PNG"; 
-import random_color_change from "../../assets/random_color_change.PNG";
+import random_color_change from "../../assets/random_color_change.PNG"; 
+import apanashope from "../../assets/apanashope_img.PNG"; 
+import shopersbay from "../../assets/shopersbay_img.PNG";
 
 export const projectsData = [
   {
@@ -50,6 +52,24 @@ export const projectsData = [
     workedAt:"CCBP Nxt Wave", 
     TechnologiesUsed:["Html","CSS","Bootstrap"],
     url: "https://pothannafoodapp.ccbp.tech",
+  }, 
+  {
+    id: 6,
+    image: apanashope,
+    title: "Apnashope",
+    category: "React", 
+    workedAt:"Irax Tech Private Limited", 
+    TechnologiesUsed:["Html","CSS","Bootstrap","Sass","React","Redux","JavaScript"],
+    url: "https://apnashope.com",
+  }, 
+  {
+    id: 7,
+    image: shopersbay,
+    title: "Shopersbay",
+    category: "Dynamic", 
+    workedAt:"Irax Tech Private Limited", 
+    TechnologiesUsed:["Html","CSS","Bootstrap","Php","Codeigniter","MySql","JavaScript"],
+    url: "https://admin.shopersbay.com/login",
   },
 ];
 

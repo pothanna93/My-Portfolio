@@ -13,7 +13,7 @@ const WorkItems = ({ item }) => {
         <p className="tech-desc">{item.workedAt}</p>
         </div>
        <div className="tecnologies-container">
-        <p><strong>TechnologiesUsed:</strong></p> 
+        <p><strong>Technologies Used:</strong></p> 
        <p className="tech-desc">{item.TechnologiesUsed.join(' , ')}</p>
        </div>
        
