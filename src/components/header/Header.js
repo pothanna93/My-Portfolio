@@ -36,7 +36,7 @@ const Header = () => {
                 }
                 onClick={() => setActiveNav("#home")}
               >
-                <i className="uil uil-estate nav_icon"></i>Homes
+                <i className="uil uil-estate nav_icon"></i>Homesss
               </a>
             </li>
             <li className="nav_item">
