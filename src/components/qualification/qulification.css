@@ -106,3 +106,12 @@
     gap: 0.5rem;
   }
 }
+
+
+.qualification_data.extra {
+  direction: rtl;
+}
+
+.qualification_data.extra > div {
+  direction: ltr;
+}

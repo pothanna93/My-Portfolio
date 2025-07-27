@@ -6,12 +6,12 @@ const Info = () => {
       <div className="about_box">
         <i className="uil uil-award-alt about_icon"></i>
         <h3 className="about_title">Experiance</h3>
-        <span className="about_subtitle">1 + Years Working</span>
+        <span className="about_subtitle">1.7 Years</span>
       </div>
       <div className="about_box">
         <i className="uil uil-briefcase-alt about_icon"></i>
         <h3 className="about_title">Completed</h3>
-        <span className="about_subtitle">3 + Projects</span>
+        <span className="about_subtitle">5 + Projects</span>
       </div>
       <div className="about_box">
         <i className="bx bx-support about_icon"></i>

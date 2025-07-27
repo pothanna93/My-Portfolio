@@ -19,6 +19,13 @@ const Frontend = () => {
               <h3 className="skills_name">CSS</h3>
               <span className="skills_level">intermediate</span>
             </div>
+          </div> 
+          <div className="skills_data">
+            <i className="bx bx-badge-check"></i>
+            <div>
+              <h3 className="skills_name">javascrpt</h3>
+              <span className="skills_level">intermediate</span>
+            </div>
           </div>
           <div className="skills_data">
             <i className="bx bx-badge-check"></i>
@@ -34,13 +41,7 @@ const Frontend = () => {
               <span className="skills_level">intermediate</span>
             </div>
           </div>
-          <div className="skills_data">
-            <i className="bx bx-badge-check"></i>
-            <div>
-              <h3 className="skills_name">javascrpt</h3>
-              <span className="skills_level">intermediate</span>
-            </div>
-          </div>
+          
         </div>
         <div className="skills_group">
           <div className="skills_data">
@@ -63,6 +64,13 @@ const Frontend = () => {
               <h3 className="skills_name">Jquery</h3>
               <span className="skills_level">Basic</span>
             </div>
+          </div> 
+          <div className="skills_data">
+            <i className="bx bx-badge-check"></i>
+            <div>
+              <h3 className="skills_name">WebSocket & WebRtc</h3>
+              <span className="skills_level">Basic</span>
+            </div>
           </div>
           <div className="skills_data">
             <i className="bx bx-badge-check"></i>
@@ -70,7 +78,8 @@ const Frontend = () => {
               <h3 className="skills_name">Figma</h3>
               <span className="skills_level">Basic</span>
             </div>
-          </div>
+          </div> 
+          
         </div>
       </div>
     </div>

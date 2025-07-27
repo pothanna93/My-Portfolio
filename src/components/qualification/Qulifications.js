@@ -116,14 +116,29 @@ const Qulifications = () => {
             className={
               toggleState === 2
                 ? "qualification_content qualification_content-active"
-                : "qualification_content "
+                : "qualification_content"
             }
           >
             <div className="qualification_data">
               <div>
+                <h3 className="qualification_title">Front-End Web Developer </h3>
+                <span className="qualification_subtitle">
+                  Vrishchik Technologies LLP
+                </span>
+                <div className="qualification_calender">
+                  <i className="uil uil-calendar-alt calender-icon"></i>2025(Feb)-Present
+                </div>
+              </div>
+              <div>
+                <span className="qualification_rounder"></span>
+                <span className="qualification_line"></span>
+              </div>
+            </div>
+            <div className="qualification_data extra">
+              <div>
                 <h3 className="qualification_title">Associate Software Engineer</h3>
                 <span className="qualification_subtitle">
-                Irax Tech Private Limited-Hyderbad
+                  Irax Tech Private Limited-Hyderbad
                 </span>
                 <div className="qualification_calender">
                   <i className="uil uil-calendar-alt calender-icon"></i>2023(Jun)-2024(Jun)
@@ -134,7 +149,7 @@ const Qulifications = () => {
                 <span className="qualification_line"></span>
               </div>
             </div>
-            <div className="qualification_data">
+            <div className="qualification_data extra">
               <div></div>
               <div>
                 <span className="qualification_rounder"></span>
@@ -143,14 +158,14 @@ const Qulifications = () => {
               <div>
                 <h3 className="qualification_title">Full Stack Trainig</h3>
                 <span className="qualification_subtitle">
-                NxtWave-CCBP 4.0 Certification Programs
+                  NxtWave-CCBP 4.0 Certification Programs
                 </span>
                 <div className="qualification_calender">
                   <i className="uil uil-calendar-alt calender-icon"></i>2021(Nov)-2023(May)
                 </div>
               </div>
             </div>
-            <div className="qualification_data">
+            <div className="qualification_data extra">
               <div>
                 <h3 className="qualification_title">Assistant professor</h3>
                 <span className="qualification_subtitle">Annamacharya Institute Of Technology And Sciences-Hyderabad</span>
@@ -162,7 +177,8 @@ const Qulifications = () => {
                 <span className="qualification_rounder"></span>
                 {/* <span className="qualification_line"></span> */}
               </div>
-            </div>
+            </div> 
+            
           </div>
         </div>
       </div>
