@@ -13,8 +13,8 @@ const About = () => {
         <div className="about_data">
           <Info />
           <p className="about_description">
-            Frontend developer, I create web pages with UI / UX user interface,
-            I have more than one year of experience and many clients are happy with the
+            Web developer, I create web pages with UI / UX user interface,
+            I have more than 2 years of experience and many clients are happy with the
             projects carried out.
           </p>
           <a download="" href={CV} className="button button--flex">
